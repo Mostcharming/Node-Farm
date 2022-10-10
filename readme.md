@@ -2,4 +2,4 @@
 
 Built using modern technologies: mainly Node.js
 
-By Mayowa F Fredrick, Tutored by Jadon Schmedtmann
+By Mayowa F Fredrick, Tutored by Jason Schmedtmann
